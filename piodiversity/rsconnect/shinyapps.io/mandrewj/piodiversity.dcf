@@ -1,0 +1,13 @@
+name: piodiversity
+title: piodiversity
+username:
+account: mandrewj
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5820204
+bundleId: 5664379
+url: https://mandrewj.shinyapps.io/piodiversity/
+when: 1646876655.70703
+lastSyncTime: 1646876655.70704
+asMultiple: FALSE
+asStatic: FALSE
