@@ -6,8 +6,11 @@ This repository is a compilation of finalized and in-progress R scripts and apps
 
 ### NEON Taxonomy Lookups
 The first two complete CollectionTools apps are the NEON_carabids and NEON_mosquitoes apps.  They are deployed online at shinyapps.io.
+
 Carabids: https://mandrewj.shinyapps.io/neonbet/
+
 Mosquitoes: https://mandrewj.shinyapps.io/neonmos/
+
 
 To modify, replace the associated csv file with one relevant to your collection holdings. If the column headers change within the csv, they will also need to be changed within the associated app.R file.
 
